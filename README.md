@@ -87,3 +87,5 @@ $ mysql -h localhost -u root -p -e "INSTALL PLUGIN mysql_no_login SONAME 'mysql_
 $ make testacc
 $ docker rm -f some-mysql
 ```
+
+update
